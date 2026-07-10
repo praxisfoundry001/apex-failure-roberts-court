@@ -65,4 +65,4 @@ Read the full artifact through the DOI record below.
 
 ## Citation
 
-DOI: Pending Zenodo publication.
+DOI: https://doi.org/10.5281/zenodo.21300204
